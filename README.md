@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlbertLtupukwa
+- 👀 I’m interested in Python Django and Data science
+- 🌱 I’m currently learning Django
